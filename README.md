@@ -1,2 +1,2 @@
 # Minesweeper
-A Minesweeper-like game set at the University of Waterloo.
+Minesweeper-like game set in the context of the University of Waterloo. In this game, players navigate a board to find geese, indicated by hidden geese and goose droppings. The game involves creating a board, randomly placing geese, and using clues from neighboring fields to identify geese locations. The player's goal is to identify all fields containing geese without disturbing them, using a combination of marking and revealing fields based on their observations. 
